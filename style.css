@@ -1,0 +1,57 @@
+/* Cambiar el background */
+body {
+     background-color: rgb(217, 255, 204);
+     /* background-color: #E6EBE0;*/
+     color: #2E4057;
+     font-family: 'Signika', sans-serif;
+     /* propiedad: ancho estilo color*/
+     border: 20px dotted #106d41;
+     margin-top: 5%;
+     margin-bottom: 3%;
+     margin-left: 3%;
+     margin-right: 3%;
+} 
+h1 {
+     color: #365f49;
+     font-family: 'Pacifico', cursive;
+     font-size:  600%;
+     /*font-family: 'Pacifico', cursive;
+     font-family: 'Lilita One', sans-serif;
+     color: #66A182;
+     font-family: 'Signika', sans-serif;*/
+}
+h3 {
+     color: #91a049;
+     /*color: #C0D461;*/
+     font-family: 'Lilita One', sans-serif;
+     font-size:  200%;
+}
+ img{
+     width: 25%;
+ }
+ p{
+    font-size:  150%;
+    text-align: justify;
+ }
+
+ /*CLASES (class) siempre llevan . antes del nombre*/
+ .real-books{
+     height: 300px;
+     width: 500px;
+ }
+
+ .imagen-ancla{
+     height: 30%;
+     width: 15%;
+     border-radius: 20px;
+ }
+ .hipervinculos{
+    font-size:  280%;
+    font-family: 'Pacifico', cursive;
+    color: #365f49;
+ }
+
+ /*selector {
+     propiedad : valor;
+     propiedad : valor;
+ }
